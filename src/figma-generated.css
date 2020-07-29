@@ -1,0 +1,49 @@
+.title {
+  font-family: Comfortaa ;
+  font-weight: 400 ;
+  font-size: 36px ;
+  letter-spacing: -0.54px ;
+  color: rgb(78.15572619438171,193.37499797344208,89.67764273285866) ;
+}
+
+.main-input {
+  background-color: rgb(255,255,255) ;
+  border: 2px SOLID rgb(78.15572619438171,193.37499797344208,89.67764273285866) ;
+}
+
+.main-input {
+  font-family: Roboto ;
+  font-weight: 400 ;
+  font-size: 15px ;
+  letter-spacing: 0px ;
+  color: rgb(0,0,0) ;
+}
+
+.main-input {
+  background-color: rgb(255,255,255) ;
+  border: 2px SOLID rgb(78.15572619438171,193.37499797344208,89.67764273285866) ;
+}
+
+.main-input {
+  font-family: Roboto ;
+  font-weight: 400 ;
+  font-size: 15px ;
+  letter-spacing: 0px ;
+  color: rgb(0,0,0) ;
+}
+
+.button {
+  background-color: rgb(78.15572619438171,193.37499797344208,89.67764273285866) ;
+  border: 2px SOLID rgb(78.15572619438171,193.37499797344208,89.67764273285866) ;
+  border-radius: 6px ;
+}
+
+.button {
+  font-family: Roboto ;
+  font-weight: Black ;
+  text-transform: uppercase ;
+  font-size: 13px ;
+  letter-spacing: 0.52px ;
+  color: rgb(255,255,255) ;
+}
+
